@@ -1,4 +1,14 @@
 print('int:')
+"""
+This script demonstrates the basic data types in Python. It includes examples of:
+1. int: Integer numbers, both positive and negative.
+2. float: Floating-point numbers, including scientific notation.
+3. complex: Complex numbers with real and imaginary parts.
+4. str: String literals, including single-line and multi-line strings.
+5. bool: Boolean values representing True and False.
+6. NoneType: The None value representing the absence of a value.
+Each section prints the type of the example values using the `type()` function.
+"""
 #print(10)
 #print(0)
 #print(-5)
