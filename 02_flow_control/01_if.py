@@ -90,3 +90,8 @@ elif tiene_dinero:
   print('Puedes ir a la disco')
 else: 
   print('Vete a casa')
+
+print('\nLa condicion ternaria')
+edad = 17
+mensaje = 'Eres mayor de edad' if edad >= 18 else 'Eres menor de edad'
+print(mensaje)
