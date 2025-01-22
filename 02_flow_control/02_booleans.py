@@ -1,4 +1,15 @@
 # Booleans in Python
+"""
+This script demonstrates the use of boolean values, boolean expressions, string comparisons, 
+logical operators, and truth tables in Python.
+The script includes the following sections:
+1. Boolean values: Assigns True and False to variables.
+2. Boolean expressions: Demonstrates comparison operators (>, <, ==, !=, >=, <=) with integers.
+3. String comparisons: Compares strings using comparison operators (==, !=, >, <).
+4. Logical operators: Demonstrates logical operators (and, or, not) with boolean values.
+5. Truth table: Prints the truth table for logical operators (and, or, not).
+Each section prints the results of the operations to the console.
+"""
 import os
 os.system('clear')
 # Boolean values
