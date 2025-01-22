@@ -1,4 +1,20 @@
 ###
+"""
+This script demonstrates various uses of conditional statements in Python.
+The script includes examples of:
+1. Simple if statements
+2. If-else statements
+3. If-elif-else statements
+4. Multiple conditions using logical operators (and, or, not)
+5. Nested conditional statements
+Examples:
+- Checking if a person is of legal age.
+- Grading system based on scores.
+- Checking if a person can drive based on age and possession of a driving license.
+- Conditional statements for weekend checks.
+- Nested conditions to determine if a person can go to a disco based on age and money.
+Each section prints the result of the conditional checks to the console.
+"""
 # 01 - If statement (if, elif, else)
 ###
 
